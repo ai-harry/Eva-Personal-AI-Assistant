@@ -1,0 +1,2 @@
+# Harry AI Jarvis Personal AI Assistant
+ Harry AI is a versatile and interactive personal AI assistant designed to assist users in various tasks such as managing schedules, retrieving information, and engaging in conversation. Built using Python and leveraging powerful AI technologies like OpenAI's GPT-3, Deepgram, and Eleven Labs, Jarvis can transcribe speech to text, generate responses based on context, and even convert text responses into speech.
