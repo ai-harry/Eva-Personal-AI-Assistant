@@ -1,5 +1,5 @@
-# Harry AI Jarvis Personal AI Assistant
- Harry AI is a versatile and interactive personal AI assistant designed to assist users in various tasks such as managing schedules, retrieving information, and engaging in conversation. Built using Python and leveraging powerful AI technologies like OpenAI's GPT-3, Deepgram, and Eleven Labs, Jarvis can transcribe speech to text, generate responses based on context, and even convert text responses into speech.
+# Eva Personal AI Assistant
+ Eva AI is a versatile and interactive personal AI assistant designed to assist users in various tasks such as managing schedules, retrieving information, and engaging in conversation. Built using Python and leveraging powerful AI technologies like OpenAI's GPT-3, Deepgram, and Eleven Labs, Eva can transcribe speech to text, generate responses based on context, and even convert text responses into speech.
 ## How it works
 
 1. :microphone: The user speaks into the microphone
@@ -23,7 +23,7 @@ Make sure you have the following API keys:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ai-harry/Harry-AI-Jarvis-Personal-AI-Assistant-.git
+git clone https://github.com/ai-harry/Eva-Personal-AI-Assistant.git
 ```
 
 2. Install the requirements
@@ -48,7 +48,7 @@ ELEVENLABS_API_KEY=XXX...XXX
 python display.py
 ```
 
-2. In another terminal, run `jarvis.py` to start the voice assistant
+2. In another terminal, run `main.py` to start the voice assistant
 
 ```bash
 python main.py
@@ -71,8 +71,8 @@ Finished generating response in 0.72 seconds.
 Finished generating audio in 1.85 seconds.
 Speaking...
 
- --- USER: good morning jarvis
- --- JARVIS: Good morning, Hassan! How can I assist you today?
+ --- USER: good morning Eva
+ --- EVA: Good morning, Hassan! How can I assist you today?
 
 Listening...
 ...
